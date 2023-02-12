@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+seaborn
+statsmodels
+sklearn
+bar_chart_race
+ffmpeg-python
+yfinance
+textblob
+missingno
